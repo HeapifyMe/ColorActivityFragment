@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ColorActivity</string>
+    <string-array name="colors">
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Cyan</item>
+        <item>Teal</item>
+        <item>Magenta</item>
+        <item>Red</item>
+        <item>White</item>
+        <item>Yellow</item>
+        <item>Silver</item>
+    </string-array>
+    <string-array name="colorids">
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Cyan</item>
+        <item>Teal</item>
+        <item>Magenta</item>
+        <item>Red</item>
+        <item>White</item>
+        <item>Yellow</item>
+        <item>Silver</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

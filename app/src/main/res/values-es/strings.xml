@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ColorActivity</string>
+    <string-array name="colors">
+        <item>Negro</item>
+        <item>Azul</item>
+        <item>Cian</item>
+        <item>AzulTeal</item>
+        <item>Magenta</item>
+        <item>Rojo</item>
+        <item>Blanca</item>
+        <item>Amarilla</item>
+        <item>Plata</item>
+    </string-array>
+
+    <string-array name="colorids">
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Cyan</item>
+        <item>Teal</item>
+        <item>Magenta</item>
+        <item>Red</item>
+        <item>White</item>
+        <item>Yellow</item>
+        <item>Silver</item>
+    </string-array>
+</resources>
